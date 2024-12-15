@@ -1,1 +1,1 @@
-Practicing git commands to make changes via https and ssh
+making changes to this file via https
